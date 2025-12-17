@@ -1,9 +1,0 @@
-Identify the purpose of:
-1. java/ - contains kotlin+java source code such as activities, view models and logic
-2. res/layout - contains xml files that define UI screens
-3. res/values - contains reusable resources such as colors.xml, strings.xml and styles.xml
-
-Questions:
-Where is the UI defined? It is defined in xml files under res/layout
-
-Where is app logic written? It is defined in kt(kotlin) files under kotlin+java folder.
