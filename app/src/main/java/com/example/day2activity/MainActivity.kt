@@ -14,9 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val onClickMe: Button = findViewById(R.id.btnClickMe)
 
-        // Set click listener
         onClickMe.setOnClickListener {
-            // Display a Toast message
             Toast.makeText(this, "Thank you for clicking!", Toast.LENGTH_LONG).show()
 
         }
