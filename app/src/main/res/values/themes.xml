@@ -3,6 +3,9 @@
     <style name="Base.Theme.Day2Activity" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primaryBtnColor</item>
+
+        <item name="android:textSize">16sp</item>
     </style>
 
     <style name="Theme.Day2Activity" parent="Base.Theme.Day2Activity" />
